@@ -1,1 +1,1 @@
-# Seguran-a-digital-utilizando-matem-tica-para-programar-senhas-seguras
+# Seguranca-digital-utilizando-matematica-para-programar-senhas-seguras
